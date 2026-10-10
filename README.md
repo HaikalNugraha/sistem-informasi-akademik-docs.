@@ -3,6 +3,10 @@ Repositori dokumentasi Sistem Informasi Akademik (SIAKAD) : kebutuhan sistem, pe
 
 # Dokumentasi Sistem Informasi Akademik (SIAKAD)
 Repositori ini menyimpan dokumentasi SIAKAD perguruan tinggi.
+Status : draft
+Status : versi 1.1 (diperbarui)
+Penambahan kebutuhan fungsional
+Tanggal Update : 10/10/2026
 ## Tujuan
 Mengelola dan mengarsipkan dokumen sistem secara terpusat
 dengan kontrol versi menggunakan GitHub.
